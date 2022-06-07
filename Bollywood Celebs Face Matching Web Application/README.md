@@ -12,26 +12,6 @@ In this project, you will discover the problem of face recognition and how deep 
 # Dataset has been used:
 https://www.kaggle.com/sushilyadav1998/bollywood-celeb-localized-face-dataset
 
-
-# Some Real Time Demo:
-
-Web app look
-
-<img src="demo/1.png" alt="workflow" width="70%">
-
-Lets check some of images
-
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
-
-This really performing good you can consider by seeing this result 😀
-
-<img src="demo/4.png" alt="workflow" width="70%">
-
-
-<img src="demo/5.png" alt="workflow" width="70%">
-
 ```
 streamlit run app.py
 ```
