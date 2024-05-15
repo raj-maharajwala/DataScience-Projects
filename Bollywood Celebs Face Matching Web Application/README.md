@@ -1,4 +1,4 @@
-# Project Name: Which Bollywood Celebrity You look like
+# Which Bollywood Celebrity You look like Transfer Learning | VGG16 | ResNet50
 
 A Deep learning based streamlit web app which can tell with which bollywood celebrity your face resembles.
 

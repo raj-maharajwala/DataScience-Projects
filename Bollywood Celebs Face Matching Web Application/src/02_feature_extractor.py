@@ -1,9 +1,3 @@
-'''
-Author: Bappy Ahmed
-Email: entbappy73@gmail.com
-Date:12-Oct-2021
-'''
-
 from src.utils.all_utils import read_yaml, create_directory
 import argparse
 import os

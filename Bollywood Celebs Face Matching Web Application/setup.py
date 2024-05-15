@@ -10,8 +10,8 @@ setup(
     description="A small package for Which Bollywood Celebrity You look like? Deep Learning Project",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/entbappy/Which-Bollywood-Celebrity-You-look-like",
-    author_email="entbappy73@gmail.com",
+    url="https://github.com/raj-maharajwala/DataScience-Projects/tree/main/Early%20Prediction%20of%20Sepsis%20from%20Clinical%20Data",
+    author_email="maharajw@usc.edu",
     packages=["src"],
     python_requires=">=3.7",
     install_requires=[

@@ -7,6 +7,7 @@ import cv2
 from mtcnn import MTCNN
 from PIL import Image
 
+
 feature_list = np.array(pickle.load(open('artifacts/extracted_features/embedding.pkl','rb')))
 filenames = pickle.load(open('artifacts/pickle_format_data/img_PICKLE_file.pkl','rb'))
 
